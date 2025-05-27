@@ -1,5 +1,3 @@
-package Circle;
-
 public class CircleArea {
 
     private double radius;
